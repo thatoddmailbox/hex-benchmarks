@@ -93,3 +93,26 @@ Benchmark 5 START
 Benchmark 5 ENDED in 159.0 second(s)
 ```
 (total time: 329 seconds)
+
+## PHP
+### Version information
+```
+PHP 5.5.24 (cli) (built: May 19 2015 10:10:05)
+Copyright (c) 1997-2015 The PHP Group
+Zend Engine v2.5.0, Copyright (c) 1998-2015 Zend Technologies
+```
+
+### Output
+```
+Benchmark 1 START
+Benchmark 1 ENDED in 1 second(s)
+Benchmark 2 START
+Benchmark 2 ENDED in 6 second(s)
+Benchmark 3 START
+Benchmark 3 ENDED in 65 second(s)
+Benchmark 4 START
+Benchmark 4 ENDED in 99 second(s)
+Benchmark 5 START
+Benchmark 5 ENDED in 168 second(s)
+```
+(total time: 339 seconds)
