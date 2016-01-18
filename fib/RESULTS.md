@@ -30,6 +30,27 @@ Benchmark 5 ENDED in 4 second(s)
 ```
 (total time: 7 seconds)
 
+## Lua
+### Version information
+```
+Lua 5.3.2  Copyright (C) 1994-2015 Lua.org, PUC-Rio
+```
+
+### Output
+```
+Benchmark 1 START
+Benchmark 1 ENDED in 1 second(s)
+Benchmark 2 START
+Benchmark 2 ENDED in 2 second(s)
+Benchmark 3 START
+Benchmark 3 ENDED in 39 second(s)
+Benchmark 4 START
+Benchmark 4 ENDED in 52 second(s)
+Benchmark 5 START
+Benchmark 5 ENDED in 83 second(s)
+```
+(total time: 177 seconds)
+
 ## Ruby
 ### Version information
 ```
@@ -49,6 +70,7 @@ Benchmark 4 ENDED in 53 second(s)
 Benchmark 5 START
 Benchmark 5 ENDED in 97 second(s)
 ```
+(total time: 191 seconds)
 
 ## Python
 ### Version information
